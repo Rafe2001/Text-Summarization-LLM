@@ -32,7 +32,7 @@ To get started with this project, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/Text-Summarization-Project.git
+   git clone https://github.com/Rafe2001/Text-Summarization-LLM.git
    ```
 
 2. Install the necessary dependencies:
